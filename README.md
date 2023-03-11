@@ -11,4 +11,6 @@ to transfer the files.
 
 ### Walter.HC
 
+https://raw.githubusercontent.com/primatesolns/TempleOSFiles/main/media/Walter.HC.mp4
+
 A WIP text adventure with Walter (a.k.a. Nelson).
